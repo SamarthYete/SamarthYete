@@ -14,7 +14,7 @@
     <a href="#-developer-terminal"><code>💻 Terminal</code></a> •
     <a href="#%EF%B8%8F-technical-skills-matrix"><code>🛠️ Tech Stack</code></a> •
     <a href="#-featured-projects-showcase"><code>🚀 Projects</code></a> •
-    <a href="#-live-analytics--performance"><code>📊 Analytics</code></a> •
+    <a href="#-contribution-activity--streak"><code>📊 Analytics</code></a> •
     <a href="#-lets-connect"><code>📫 Connect</code></a>
   </p>
 
@@ -48,16 +48,6 @@ samarth@portfolio:~ $ git status
 # On branch main
 # Status: 🟢 Open to work & building impactful projects
 ```
-
----
-
-### 🏆 Profile Trophies
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=SamarthYete&theme=tokyonight&no-bg=true&row=1&column=6" alt="Samarth's GitHub Trophies" />
-
-</div>
 
 ---
 
@@ -154,7 +144,7 @@ samarth@portfolio:~ $ git status
 
 ---
 
-### 🐍 Contribution Activity Graph
+### 🐍 Contribution Activity & Streak
 
 <div align="center">
 
@@ -163,21 +153,11 @@ samarth@portfolio:~ $ git status
 
 </div>
 
----
-
-### 📊 Live Analytics & Performance
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=SamarthYete&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Samarth's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthYete&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-
-</div>
-
 <br/>
 
 <div align="center">
 
+  <!-- Streak Stats Widget -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamarthYete&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
 
 </div>
