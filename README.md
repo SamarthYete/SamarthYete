@@ -13,7 +13,7 @@
   <p align="center">
     <a href="https://github.com/SamarthYete"><img src="https://img.shields.io/github/followers/SamarthYete?style=for-the-badge&logo=github&color=61AFEF&labelColor=21252b" alt="GitHub Followers" /></a>
     <a href="https://github.com/SamarthYete?tab=repositories"><img src="https://img.shields.io/github/stars/SamarthYete?style=for-the-badge&logo=github&color=98C379&labelColor=21252b" alt="GitHub Stars" /></a>
-    <a href="https://linkedin.com/in/SamarthYete"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=21252b" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/samarth-yete/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=21252b" alt="LinkedIn" /></a>
   </p>
 
 </div>
@@ -111,7 +111,7 @@ samarth_yete:
 
 <div align="center">
 
-  <a href="https://linkedin.com/in/SamarthYete">
+  <a href="https://www.linkedin.com/in/samarth-yete/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:samarth.yete@gmail.com">
