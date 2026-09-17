@@ -11,8 +11,8 @@
 <p>
   <img src="https://img.shields.io/github/followers/SamarthYete?style=for-the-badge&color=007ACC&logo=github" />
   <img src="https://img.shields.io/github/stars/SamarthYete?style=for-the-badge&color=98C379&logo=github" />
-  <a href="https://linkedin.com/in/SamarthYete"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:samarth.yete@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/samarth-yete/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:yetesamarth@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 </div>
@@ -38,7 +38,7 @@ Developer Profile:
 - 🔭 Currently working on **Data Analytics Dashboards** and **AI-driven Applications**
 - 🌱 Expanding expertise in **Deep Learning, Cloud Data Warehousing & Advanced SQL**
 - 💬 Ask me about **Python, ML models, Power BI / Tableau, SQL, or Web Dev**
-- 📬 Reach me at **samarth.yete@gmail.com**
+- 📬 Reach me at **yetesamarth@gmail.com**
 
 ---
 
@@ -121,8 +121,8 @@ Developer Profile:
 
 <div align="center">
 
-<a href="https://linkedin.com/in/SamarthYete"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:samarth.yete@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/samarth-yete/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:yetesamarth@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/SamarthYete"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
